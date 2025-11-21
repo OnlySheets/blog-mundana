@@ -729,18 +729,6 @@ article h1,article h2,article h3,article h4,article h5,article h6,article .h1,ar
 		font-size:35px;
 	}
 }
-@media (max-width:991.98px) {
-	.display-4 {
-		font-size:25px;
-	}
-	.alertbar {
-		display: none !important;
-	}
-}
-@media (min-width:992px) {
-	.a2a_default_style a {
-		display:block !important;
-		float:none !important;
 	}
 	.a2a_default_style .a2a_svg {
 		border-radius:50% !important;
