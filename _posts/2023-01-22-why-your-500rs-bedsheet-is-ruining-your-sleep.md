@@ -3,7 +3,7 @@ layout: post
 title:  "Why Your 500rs Bedsheet is Ruining Your Sleep"
 author: team_onlysheets
 categories: [ Health ]
-image: /assets/images/logo.png
+image: /assets/images/restless_sleep.png
 tags: ['sleep quality', 'health', 'investment']
 ---
 We spend a third of our lives in bed. Yet, many of us skimp on the one thing that touches our skin all night: our sheets.

@@ -3,7 +3,7 @@ layout: post
 title:  "Why Thread Count Isn't Everything: The Truth About Luxury Bedding"
 author: team_onlysheets
 categories: [ Education ]
-image: /assets/images/logo.png
+image: /assets/images/thread_count.png
 tags: ['thread count', 'quality', 'guide']
 ---
 Most people think higher thread count means better quality. But is a 1000 thread count sheet really better than a 400 one? Not necessarily.

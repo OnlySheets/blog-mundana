@@ -3,7 +3,7 @@ layout: post
 title:  "Egyptian Cotton vs. Regular Cotton: Is It Worth the Hype?"
 author: team_onlysheets
 categories: [ Materials ]
-image: /assets/images/logo.png
+image: /assets/images/egyptian_cotton.png
 tags: ['egyptian cotton', 'materials', 'luxury']
 ---
 You've heard of Egyptian Cotton, but do you know why it's considered the gold standard for bedding?

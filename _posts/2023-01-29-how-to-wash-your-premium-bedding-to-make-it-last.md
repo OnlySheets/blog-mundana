@@ -3,7 +3,7 @@ layout: post
 title:  "How to Wash Your Premium Bedding to Make It Last"
 author: team_onlysheets
 categories: [ Care ]
-image: /assets/images/logo.png
+image: /assets/images/washing_sheets.png
 tags: ['care guide', 'washing', 'maintenance']
 ---
 You've invested in luxury sheets. Now, how do you keep them feeling brand new for years?
