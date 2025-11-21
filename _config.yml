@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: team_onlysheets
-      avatar: /assets/images/logo.png
+      avatar: /assets/images/team_avatar.png
       
   # all pages
   - scope:
