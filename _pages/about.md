@@ -1,4 +1,3 @@
-```
 ---
 layout: page
 title: About OnlySheets
@@ -19,4 +18,3 @@ We started OnlySheets because we were tired of the "luxury" bedding market being
 *   **Affordable Luxury**: By cutting out the middleman, we bring you hotel-quality bedding at a fraction of the price.
 
 Join us in our mission to upgrade the way the world sleeps, one bed at a time.
-```

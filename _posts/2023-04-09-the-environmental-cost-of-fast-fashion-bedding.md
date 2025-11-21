@@ -3,7 +3,7 @@ layout: post
 title:  "The Environmental Cost of Fast Fashion Bedding"
 author: team_onlysheets
 categories: [ Sustainability ]
-image: /assets/images/logo.png
+image: /assets/images/egyptian_cotton.png
 tags: ['environment', 'sustainability', 'fast fashion']
 ---
 Cheap sheets are disposable. They wear out quickly and end up in landfills. Synthetic sheets (microfiber) shed microplastics into our oceans with every wash.

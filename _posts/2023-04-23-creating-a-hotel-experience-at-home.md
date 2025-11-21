@@ -3,7 +3,7 @@ layout: post
 title:  "Creating a Hotel Experience at Home"
 author: team_onlysheets
 categories: [ Lifestyle ]
-image: /assets/images/logo.png
+image: /assets/images/bedroom_colors.png
 tags: ['hotel', 'luxury', 'bedroom']
 ---
 We all love that feeling of sliding into a hotel bed. Why is it so good?

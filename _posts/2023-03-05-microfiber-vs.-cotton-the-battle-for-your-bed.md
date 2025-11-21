@@ -3,7 +3,7 @@ layout: post
 title:  "Microfiber vs. Cotton: The Battle for Your Bed"
 author: team_onlysheets
 categories: [ Materials ]
-image: /assets/images/logo.png
+image: /assets/images/sateen_percale.png
 tags: ['microfiber', 'cotton', 'comparison']
 ---
 Microfiber sheets are everywhere. They are cheap, soft, and colorful. But are they good?

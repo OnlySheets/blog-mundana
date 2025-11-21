@@ -3,7 +3,7 @@ layout: post
 title:  "How to Fold a Fitted Sheet (Without Losing Your Mind)"
 author: team_onlysheets
 categories: [ Guides ]
-image: /assets/images/logo.png
+image: /assets/images/washing_sheets.png
 tags: ['folding', 'howto', 'organization']
 ---
 It's the nemesis of laundry day. The fitted sheet ball.

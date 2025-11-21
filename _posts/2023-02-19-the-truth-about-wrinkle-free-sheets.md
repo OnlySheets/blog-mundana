@@ -3,7 +3,7 @@ layout: post
 title:  "The Truth About 'Wrinkle-Free' Sheets"
 author: team_onlysheets
 categories: [ Education ]
-image: /assets/images/logo.png
+image: /assets/images/thread_count.png
 tags: ['chemicals', 'wrinkle-free', 'safety']
 ---
 Who likes ironing? No one. But 'wrinkle-free' sheets come at a hidden cost.

@@ -3,7 +3,7 @@ layout: post
 title:  "Why We Don't Sell 1000 Thread Count Sheets"
 author: team_onlysheets
 categories: [ Transparency ]
-image: /assets/images/logo.png
+image: /assets/images/thread_count.png
 tags: ['honesty', 'thread count', 'industry secrets']
 ---
 You won't find 1000 thread count sheets at OnlySheets. Here's why.

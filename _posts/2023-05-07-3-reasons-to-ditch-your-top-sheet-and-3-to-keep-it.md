@@ -3,7 +3,7 @@ layout: post
 title:  "3 Reasons to Ditch Your Top Sheet (And 3 to Keep It)"
 author: team_onlysheets
 categories: [ Debate ]
-image: /assets/images/logo.png
+image: /assets/images/bedroom_colors.png
 tags: ['top sheet', 'debate', 'preferences']
 ---
 The great debate: Top sheet or no top sheet?

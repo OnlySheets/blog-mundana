@@ -3,7 +3,7 @@ layout: post
 title:  "What is 'Long-Staple' Cotton?"
 author: team_onlysheets
 categories: [ Education ]
-image: /assets/images/logo.png
+image: /assets/images/egyptian_cotton.png
 tags: ['cotton', 'terminology', 'quality']
 ---
 You see the term 'long-staple' on our packaging. What does it mean?

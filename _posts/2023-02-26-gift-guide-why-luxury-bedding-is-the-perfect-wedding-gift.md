@@ -3,7 +3,7 @@ layout: post
 title:  "Gift Guide: Why Luxury Bedding is the Perfect Wedding Gift"
 author: team_onlysheets
 categories: [ Gifting ]
-image: /assets/images/logo.png
+image: /assets/images/bedroom_colors.png
 tags: ['wedding', 'gifts', 'ideas']
 ---
 Toasters break. Blenders get stored away. But a set of luxury sheets? That's a gift used every single night.

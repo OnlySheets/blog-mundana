@@ -3,7 +3,7 @@ layout: post
 title:  "Understanding Weave Density and Breathability"
 author: team_onlysheets
 categories: [ Science ]
-image: /assets/images/logo.png
+image: /assets/images/thread_count.png
 tags: ['science', 'breathability', 'technical']
 ---
 It's simple physics. Air needs space to move.

@@ -3,7 +3,7 @@ layout: post
 title:  "The Psychology of Bedroom Colors: Choosing the Right Shade"
 author: team_onlysheets
 categories: [ Design ]
-image: /assets/images/logo.png
+image: /assets/images/bedroom_colors.png
 tags: ['colors', 'interior design', 'psychology']
 ---
 Your bedroom is your sanctuary. The color of your sheets plays a huge role in setting the mood.

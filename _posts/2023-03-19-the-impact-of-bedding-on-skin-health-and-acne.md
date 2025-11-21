@@ -3,7 +3,7 @@ layout: post
 title:  "The Impact of Bedding on Skin Health and Acne"
 author: team_onlysheets
 categories: [ Health ]
-image: /assets/images/logo.png
+image: /assets/images/thread_count.png
 tags: ['skincare', 'acne', 'beauty']
 ---
 Did you know your pillowcase could be causing your breakouts?

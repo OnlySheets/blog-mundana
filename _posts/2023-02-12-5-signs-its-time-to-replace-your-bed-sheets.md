@@ -3,7 +3,7 @@ layout: post
 title:  "5 Signs It's Time to Replace Your Bed Sheets"
 author: team_onlysheets
 categories: [ Guides ]
-image: /assets/images/logo.png
+image: /assets/images/worn_vs_new.png
 tags: ['replacement', 'signs', 'tips']
 ---
 Nothing lasts forever, not even your favorite sheets. Here are 5 signs you need an upgrade:
